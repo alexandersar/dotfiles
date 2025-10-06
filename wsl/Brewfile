@@ -1,0 +1,6 @@
+brew "eza"
+brew "fzf"
+brew "gcc"
+brew "lazygit"
+brew "neovim"
+brew "stow"
